@@ -1,2 +1,0 @@
-[0.0.1 - 2012/08/17]
-+ Base on netDxf 0.1 add Canvas Control
