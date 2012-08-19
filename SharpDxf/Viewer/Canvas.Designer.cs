@@ -44,6 +44,9 @@ namespace SharpDxf.Viewer
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.Name = "Canvas";
 			this.Size = new System.Drawing.Size(149, 141);
+			this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.CanvasMouseDown);
+			this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.CanvasMouseUp);
+			this.MouseWheel +=new System.Windows.Forms.MouseEventHandler(this.CanvasMouseWheel);
 			this.ResumeLayout(false);
 		}
 	}

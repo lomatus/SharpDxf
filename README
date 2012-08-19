@@ -1,1 +1,7 @@
 SharpDxf is an .Net Library for reading and displaying Dxf Files
+
+SharpDxf base on Daniel Carvajal's netDxf at http://netdxf.codeproject.com/
+
+SharpDxf still in developing ... Please wait for the first release.
+
+SharpDxf's license is LGPL, you can use it freely under LGPL license.

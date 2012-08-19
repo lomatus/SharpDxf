@@ -1,4 +1,4 @@
-#region SharpDxf, Copyright(C) 20012 Lomatus, Licensed under LGPL.
+#region SharpDxf, Copyright(C) 2012 Lomatus, Licensed under LGPL.
 
 //                        SharpDxf library( Base on netDxf by Daniel Carvajal )
 // Copyright (C) 2012 Lomatus (tourszhou@gmail.com)
